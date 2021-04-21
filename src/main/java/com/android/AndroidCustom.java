@@ -12,6 +12,8 @@ public class AndroidCustom {
         
         AndroidCustom obj = new AndroidCustom();
         obj.Custom();
+
+        System.out.println("FInal check");
 	}
 }
 
